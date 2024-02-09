@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**qq61538187/qq61538187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+关于我🃏:
+- 🗣️ 承接各类软件项目开发需求：前端、后端、移动端、小程序、桌面端、网页端、运维、部署、UI设计、二开
+- 🛠️ Vue2, Vue3, React, Flutter, Nodejs, WebGl, JAVA, css, html
+- 💼 兴趣方向是 Wasm、WebGl、工业软件、深度学习、图片处理、音视频处理 💓
+- 📫 61538187@qq.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💝支持作者💝:
+- 打赏任意金额可以加入赞助者行列🙊
+- 对赞助者有本人亲自整理的学习文档及视频学习资源赠送
+- 打赏时备注留下邮箱地址即可, 手动发送可能会有延迟，请耐心等待~  Thanks♪(･ω･)ﾉ
+<div align="center">
+  <h2 align="center">🎉 赞助者 🎉</h2>
+</div>
